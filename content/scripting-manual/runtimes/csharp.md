@@ -68,4 +68,7 @@ Congratulations, you've now added the server dependency to your project.
 
 
 # Let's write some code
-**[It's finally time to actually start writing some code! 🎉](/scripting-manual/introduction/creating-your-first-script-csharp)**
+**It's finally time to actually start writing some code! 🎉**
+```cpp
+// Sorry, this guide is still a WIP. it will be finished soon!
+```
